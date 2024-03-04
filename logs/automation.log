@@ -1,0 +1,55 @@
+16:13:22.211 [main] INFO  factory.BaseClass - Verified Upcoming Bike Page url
+16:13:25.591 [main] INFO  factory.BaseClass - From manufacturers dropdown select 'Honda'
+16:13:26.247 [main] INFO  factory.BaseClass - ***********verify Honda title ***********
+16:13:27.065 [main] INFO  factory.BaseClass - Verified Honda page title
+16:13:28.702 [main] INFO  factory.BaseClass - Click on ViewMore
+16:13:35.554 [main] INFO  factory.BaseClass - Get bike models, prices, and expected launch date for manufacturer 'Honda' & Bike price less than 4Lac
+16:13:40.000 [main] INFO  factory.BaseClass - ***Finished TC_1_UpcomingBikes
+16:13:50.080 [main] INFO  factory.BaseClass - ***Starting TC_2_UsedCars****
+16:13:52.277 [main] INFO  factory.BaseClass - Checking visibility of used cars dropdown
+16:13:52.760 [main] INFO  factory.BaseClass - ******Starting TC_2_UsedCars****
+16:13:52.952 [main] INFO  factory.BaseClass - Move to used cars dropdown
+16:14:00.745 [main] INFO  factory.BaseClass - Click on Chennai city
+16:14:02.821 [main] INFO  factory.BaseClass - Extracting all the popular models
+16:14:02.821 [main] INFO  factory.BaseClass - ***Finished TC_2_UsedCars****
+16:14:03.608 [main] INFO  factory.BaseClass - ***Starting TC_3_GoogleSignin***
+16:14:10.706 [main] INFO  factory.BaseClass - Click on Forum
+16:14:11.080 [main] INFO  factory.BaseClass - ***********verifing Forum Page Title ***********
+16:14:11.092 [main] INFO  factory.BaseClass - Verified Forum Page title
+16:14:12.647 [main] INFO  factory.BaseClass - Click on signup
+16:14:13.457 [main] INFO  factory.BaseClass - click on Google
+16:14:17.563 [main] INFO  factory.BaseClass - Signin with wrong Email account deatils
+16:14:18.570 [main] INFO  factory.BaseClass - Click on Next button
+16:14:18.905 [main] INFO  factory.BaseClass - Capture the error message
+16:14:18.906 [main] INFO  factory.BaseClass - ***Finished TC_3_GoogleSignin***
+16:28:41.114 [main] INFO  factory.BaseClass - started running tests
+16:28:41.893 [main] INFO  factory.BaseClass - ***Starting TC_1_UpcomingBikes
+16:28:42.546 [main] INFO  factory.BaseClass - *********verifying Home Title ***********
+16:28:42.718 [main] INFO  factory.BaseClass - got the page title
+16:28:43.439 [main] INFO  factory.BaseClass - Move to New Bikes Dropdown
+16:28:47.017 [main] INFO  factory.BaseClass - Click on Upcoming Bikes
+16:28:47.740 [main] INFO  factory.BaseClass - ***********verifing Upcoming Bike Page url ***********
+16:28:47.762 [main] INFO  factory.BaseClass - Verified Upcoming Bike Page url
+16:28:49.208 [main] INFO  factory.BaseClass - From manufacturers dropdown select 'Honda'
+16:28:49.857 [main] INFO  factory.BaseClass - ***********verify Honda title ***********
+16:28:49.939 [main] INFO  factory.BaseClass - Verified Honda page title
+16:28:51.017 [main] INFO  factory.BaseClass - Click on ViewMore
+16:28:57.449 [main] INFO  factory.BaseClass - Get bike models, prices, and expected launch date for manufacturer 'Honda' & Bike price less than 4Lac
+16:29:00.010 [main] INFO  factory.BaseClass - ***Finished TC_1_UpcomingBikes
+16:29:00.517 [main] INFO  factory.BaseClass - ***Starting TC_2_UsedCars****
+16:29:01.272 [main] INFO  factory.BaseClass - Checking visibility of used cars dropdown
+16:29:01.727 [main] INFO  factory.BaseClass - ******Starting TC_2_UsedCars****
+16:29:01.906 [main] INFO  factory.BaseClass - Move to used cars dropdown
+16:29:08.501 [main] INFO  factory.BaseClass - Click on Chennai city
+16:29:09.707 [main] INFO  factory.BaseClass - Extracting all the popular models
+16:29:09.708 [main] INFO  factory.BaseClass - ***Finished TC_2_UsedCars****
+16:29:10.220 [main] INFO  factory.BaseClass - ***Starting TC_3_GoogleSignin***
+16:29:14.865 [main] INFO  factory.BaseClass - Click on Forum
+16:29:15.227 [main] INFO  factory.BaseClass - ***********verifing Forum Page Title ***********
+16:29:15.241 [main] INFO  factory.BaseClass - Verified Forum Page title
+16:29:16.440 [main] INFO  factory.BaseClass - Click on signup
+16:29:17.196 [main] INFO  factory.BaseClass - click on Google
+16:29:19.734 [main] INFO  factory.BaseClass - Signin with wrong Email account deatils
+16:29:20.709 [main] INFO  factory.BaseClass - Click on Next button
+16:29:21.030 [main] INFO  factory.BaseClass - Capture the error message
+16:29:21.030 [main] INFO  factory.BaseClass - ***Finished TC_3_GoogleSignin***

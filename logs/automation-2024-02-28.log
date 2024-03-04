@@ -1,0 +1,64 @@
+16:48:42.389 [main] INFO  factory.BaseClass - From manufacturers dropdown select 'Honda'
+16:48:42.707 [main] INFO  factory.BaseClass - ***********verify Honda title ***********
+16:48:42.746 [main] INFO  factory.BaseClass - Verified Honda page title
+16:48:43.481 [main] INFO  factory.BaseClass - Click on ViewMore
+16:48:46.152 [main] INFO  factory.BaseClass - Get bike models, prices, and expected launch date for manufacturer 'Honda' & Bike price less than 4Lac
+17:16:46.159 [main] INFO  factory.BaseClass - started running tests
+17:16:46.917 [main] INFO  factory.BaseClass - ***Starting TC_1_UpcomingBikes
+17:16:48.375 [main] INFO  factory.BaseClass - *********verifying Home Title ***********
+17:16:48.471 [main] INFO  factory.BaseClass - got the page title
+17:16:49.324 [main] INFO  factory.BaseClass - Move to New Bikes Dropdown
+17:16:51.178 [main] INFO  factory.BaseClass - Click on Upcoming Bikes
+17:16:51.536 [main] INFO  factory.BaseClass - ***********verifing Upcoming Bike Page url ***********
+17:16:51.786 [main] INFO  factory.BaseClass - Verified Upcoming Bike Page url
+17:16:53.156 [main] INFO  factory.BaseClass - From manufacturers dropdown select 'Honda'
+17:16:53.718 [main] INFO  factory.BaseClass - ***********verify Honda title ***********
+17:16:53.800 [main] INFO  factory.BaseClass - Verified Honda page title
+17:16:54.890 [main] INFO  factory.BaseClass - Click on ViewMore
+17:16:57.534 [main] INFO  factory.BaseClass - Get bike models, prices, and expected launch date for manufacturer 'Honda' & Bike price less than 4Lac
+17:16:59.682 [main] INFO  factory.BaseClass - ***Finished TC_1_UpcomingBikes
+17:17:00.096 [main] INFO  factory.BaseClass - ***Starting TC_2_UsedCars****
+17:17:00.740 [main] INFO  factory.BaseClass - Checking visibility of used cars dropdown
+17:17:01.204 [main] INFO  factory.BaseClass - ******Starting TC_2_UsedCars****
+17:17:01.375 [main] INFO  factory.BaseClass - Move to used cars dropdown
+17:17:06.973 [main] INFO  factory.BaseClass - Click on Chennai city
+17:17:08.304 [main] INFO  factory.BaseClass - Extracting all the popular models
+17:17:08.305 [main] INFO  factory.BaseClass - ***Finished TC_2_UsedCars****
+17:17:08.814 [main] INFO  factory.BaseClass - ***Starting TC_3_GoogleSignin***
+17:17:11.899 [main] INFO  factory.BaseClass - Click on Forum
+17:17:12.313 [main] INFO  factory.BaseClass - ***********verifing Forum Page Title ***********
+17:17:12.328 [main] INFO  factory.BaseClass - Verified Forum Page title
+17:17:12.924 [main] INFO  factory.BaseClass - Click on signup
+17:17:13.616 [main] INFO  factory.BaseClass - click on Google
+17:17:16.132 [main] INFO  factory.BaseClass - Signin with wrong Email account deatils
+17:17:17.054 [main] INFO  factory.BaseClass - Click on Next button
+17:17:17.454 [main] INFO  factory.BaseClass - Capture the error message
+17:17:17.455 [main] INFO  factory.BaseClass - ***Finished TC_3_GoogleSignin***
+18:12:43.163 [main] INFO  factory.BaseClass - started running tests
+18:12:43.678 [main] INFO  factory.BaseClass - ***Starting TC_1_UpcomingBikes
+18:12:44.353 [main] INFO  factory.BaseClass - *********verifying Home Title ***********
+18:12:44.430 [main] INFO  factory.BaseClass - got the page title
+18:12:45.217 [main] INFO  factory.BaseClass - Move to New Bikes Dropdown
+18:12:56.192 [main] INFO  factory.BaseClass - ***Starting TC_2_UsedCars****
+18:12:56.267 [main] INFO  factory.BaseClass - Checking visibility of used cars dropdown
+18:12:56.679 [main] INFO  factory.BaseClass - ******Starting TC_2_UsedCars****
+18:12:56.826 [main] INFO  factory.BaseClass - Move to used cars dropdown
+18:13:01.949 [main] INFO  factory.BaseClass - Click on Chennai city
+18:13:03.563 [main] INFO  factory.BaseClass - Extracting all the popular models
+18:13:03.563 [main] INFO  factory.BaseClass - ***Finished TC_2_UsedCars****
+18:13:03.918 [main] INFO  factory.BaseClass - ***Starting TC_3_GoogleSignin***
+18:13:07.460 [main] INFO  factory.BaseClass - Click on Forum
+18:13:07.756 [main] INFO  factory.BaseClass - ***********verifing Forum Page Title ***********
+18:13:07.773 [main] INFO  factory.BaseClass - Verified Forum Page title
+18:13:08.549 [main] INFO  factory.BaseClass - Click on signup
+18:13:08.997 [main] INFO  factory.BaseClass - click on Google
+18:13:11.137 [main] INFO  factory.BaseClass - Signin with wrong Email account deatils
+18:13:11.666 [main] INFO  factory.BaseClass - Click on Next button
+21:40:14.501 [main] INFO  factory.BaseClass - started running tests
+21:40:15.575 [main] INFO  factory.BaseClass - ***Starting TC_1_UpcomingBikes
+21:40:16.515 [main] INFO  factory.BaseClass - *********verifying Home Title ***********
+21:40:16.607 [main] INFO  factory.BaseClass - got the page title
+21:40:17.468 [main] INFO  factory.BaseClass - Move to New Bikes Dropdown
+21:40:19.098 [main] INFO  factory.BaseClass - Click on Upcoming Bikes
+21:40:19.522 [main] INFO  factory.BaseClass - ***********verifing Upcoming Bike Page url ***********
+21:40:19.645 [main] INFO  factory.BaseClass - Verified Upcoming Bike Page url

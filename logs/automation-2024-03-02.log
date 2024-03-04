@@ -1,0 +1,64 @@
+12:28:46.831 [main] INFO  factory.BaseClass - ******Starting TC_2_UsedCars****
+12:28:47.009 [main] INFO  factory.BaseClass - Move to used cars dropdown
+12:29:06.458 [main] INFO  factory.BaseClass - Click on Chennai city
+12:29:07.425 [main] INFO  factory.BaseClass - Extracting all the popular models
+12:29:07.426 [main] INFO  factory.BaseClass - ***Finished TC_2_UsedCars****
+12:29:07.746 [main] INFO  factory.BaseClass - ***Starting TC_3_GoogleSignin***
+12:29:24.595 [main] INFO  factory.BaseClass - Click on Forum
+12:29:24.882 [main] INFO  factory.BaseClass - ***********verifing Forum Page Title ***********
+12:29:24.900 [main] INFO  factory.BaseClass - Verified Forum Page title
+12:29:25.960 [main] INFO  factory.BaseClass - Click on signup
+12:29:26.717 [main] INFO  factory.BaseClass - click on Google
+12:29:33.051 [main] INFO  factory.BaseClass - Signin with wrong Email account deatils
+12:29:33.955 [main] INFO  factory.BaseClass - Click on Next button
+12:30:47.583 [main] INFO  factory.BaseClass - started running tests
+12:30:48.159 [main] INFO  factory.BaseClass - ***Starting TC_1_UpcomingBikes
+12:30:48.755 [main] INFO  factory.BaseClass - *********verifying Home Title ***********
+12:30:48.807 [main] INFO  factory.BaseClass - got the page title
+12:30:49.492 [main] INFO  factory.BaseClass - Move to New Bikes Dropdown
+12:30:56.421 [main] INFO  factory.BaseClass - Click on Upcoming Bikes
+12:30:56.716 [main] INFO  factory.BaseClass - ***********verifing Upcoming Bike Page url ***********
+12:30:56.745 [main] INFO  factory.BaseClass - Verified Upcoming Bike Page url
+12:30:58.554 [main] INFO  factory.BaseClass - From manufacturers dropdown select 'Honda'
+12:30:58.997 [main] INFO  factory.BaseClass - ***********verify Honda title ***********
+12:30:59.058 [main] INFO  factory.BaseClass - Verified Honda page title
+12:31:00.459 [main] INFO  factory.BaseClass - Click on ViewMore
+12:31:05.077 [main] INFO  factory.BaseClass - Get bike models, prices, and expected launch date for manufacturer 'Honda' & Bike price less than 4Lac
+12:31:07.588 [main] INFO  factory.BaseClass - ***Finished TC_1_UpcomingBikes
+12:31:08.558 [main] INFO  factory.BaseClass - ***Starting TC_2_UsedCars****
+12:31:09.596 [main] INFO  factory.BaseClass - Checking visibility of used cars dropdown
+12:31:10.025 [main] INFO  factory.BaseClass - ******Starting TC_2_UsedCars****
+12:31:10.689 [main] INFO  factory.BaseClass - Move to used cars dropdown
+12:31:20.630 [main] INFO  factory.BaseClass - Click on Chennai city
+12:31:21.790 [main] INFO  factory.BaseClass - Extracting all the popular models
+12:31:21.790 [main] INFO  factory.BaseClass - ***Finished TC_2_UsedCars****
+12:31:22.217 [main] INFO  factory.BaseClass - ***Starting TC_3_GoogleSignin***
+12:31:29.707 [main] INFO  factory.BaseClass - Click on Forum
+12:31:30.009 [main] INFO  factory.BaseClass - ***********verifing Forum Page Title ***********
+12:31:30.027 [main] INFO  factory.BaseClass - Verified Forum Page title
+12:31:30.767 [main] INFO  factory.BaseClass - Click on signup
+12:31:31.533 [main] INFO  factory.BaseClass - click on Google
+12:31:34.007 [main] INFO  factory.BaseClass - Signin with wrong Email account deatils
+12:31:34.918 [main] INFO  factory.BaseClass - Click on Next button
+12:31:35.213 [main] INFO  factory.BaseClass - Capture the error message
+12:31:35.213 [main] INFO  factory.BaseClass - ***Finished TC_3_GoogleSignin***
+13:19:57.636 [main] INFO  factory.BaseClass - started running tests
+13:19:58.184 [main] INFO  factory.BaseClass - ***Starting TC_1_UpcomingBikes
+13:19:58.778 [main] INFO  factory.BaseClass - *********verifying Home Title ***********
+13:19:58.837 [main] INFO  factory.BaseClass - got the page title
+13:19:59.508 [main] INFO  factory.BaseClass - Move to New Bikes Dropdown
+13:20:25.215 [main] INFO  factory.BaseClass - Click on Upcoming Bikes
+13:20:25.530 [main] INFO  factory.BaseClass - ***********verifing Upcoming Bike Page url ***********
+13:20:25.542 [main] INFO  factory.BaseClass - Verified Upcoming Bike Page url
+13:20:27.429 [main] INFO  factory.BaseClass - From manufacturers dropdown select 'Honda'
+13:20:27.847 [main] INFO  factory.BaseClass - ***********verify Honda title ***********
+13:20:28.011 [main] INFO  factory.BaseClass - Verified Honda page title
+13:20:29.158 [main] INFO  factory.BaseClass - Click on ViewMore
+13:20:31.791 [main] INFO  factory.BaseClass - Get bike models, prices, and expected launch date for manufacturer 'Honda' & Bike price less than 4Lac
+13:20:34.136 [main] INFO  factory.BaseClass - ***Finished TC_1_UpcomingBikes
+13:20:34.699 [main] INFO  factory.BaseClass - ***Starting TC_2_UsedCars****
+13:20:35.665 [main] INFO  factory.BaseClass - Checking visibility of used cars dropdown
+13:20:36.092 [main] INFO  factory.BaseClass - ******Starting TC_2_UsedCars****
+13:20:36.246 [main] INFO  factory.BaseClass - Move to used cars dropdown
+13:20:52.209 [main] INFO  factory.BaseClass - Click on Chennai city
+13:20:53.336 [main] INFO  factory.BaseClass - Extracting all the popular models
